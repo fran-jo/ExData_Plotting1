@@ -92,23 +92,23 @@ date. There should be four PNG files and four R code files.
 The four plots that you will need to construct are shown below. 
 
 
-### Plot 1
+### Plot 1 (edited: file plot1.png generated with file plot1.R)
 
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+![plot 1](plot1.png) 
 
 
-### Plot 2
+### Plot 2 (edited: file plot2.png generated with file plot2.R)
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
-
-
-### Plot 3
-
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+![plot 2](plot2.png) 
 
 
-### Plot 4
+### Plot 3 (edited: file plot3.png generated with file plot3.R)
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+![plot 3](plot3.png) 
+
+
+### Plot 4 (edited: file plot4.png generated with file plot4.R)
+
+![plot 4](plot4.png) 
 
